@@ -12,6 +12,9 @@ body{
     height: 420px;
     background:white;
     color: black;
+    position:center;
+    left: 50%;
+    top: 50%;
   
 
 }
